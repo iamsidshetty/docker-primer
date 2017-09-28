@@ -1,4 +1,4 @@
-# Contributing
+# CONTRIBUTIONS
 
 Contributions to this repository are welcome! Please read the guidelines before making a pull request. 
 

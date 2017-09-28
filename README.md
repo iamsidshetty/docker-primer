@@ -2,7 +2,7 @@
 
 This primer aggregates various resources for a person who is curious about Docker; Docker Virgin. 
 
-Contributing guidelines will be published soon. 
+Please read the [contribution guidelines](CONTRIBUTION.md) before raising a pull request.  
 
 ## Docker 101: No Pain, True Gain!
 
